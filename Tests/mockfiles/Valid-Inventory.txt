@@ -1,0 +1,3 @@
+Location	Name	ID	Count	Slots
+Charm	Empty	0	0	0
+Ear	Valid Item	14369	1	5

@@ -1,0 +1,16 @@
+54	Deflux
+59	Touch of Night
+57	Vexing Mordinia
+60	Trucidation
+51	Envenomed Bolt
+58	Pyrocruor
+56	Cessation of Cor
+51	Splurt
+60	Demi Lich
+60	Arch Lich
+55	Augmentation of Death
+59	Emissary of Thule
+44	Dead Man Floating
+16	Feign Death
+8	Shadow Step
+4	Gate
